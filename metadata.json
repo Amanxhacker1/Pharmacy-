@@ -1,0 +1,6 @@
+{
+  "name": "Pharmacy",
+  "description": "A professional pharmaceutical management ERP for billing, stock control, invoice management, GST tracking, and wholesale/retail pharmacy operations inspired by classic Marg ERP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
